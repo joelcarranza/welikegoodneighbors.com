@@ -4,12 +4,13 @@ Website for a New Orleans community coalition opposing the expansion of the 2400
 
 ## Prerequisites
 
+- Hugo
 - Node.js
 
 ## Setup
 
 ```bash
-git clone --recurse-submodules <repo-url>
+git clone --recurse-submodules git@github.com:joelcarranza/welikegoodneighbors.com.git
 cd welikegoodneighbors.com
 npm install
 ```
@@ -17,22 +18,18 @@ npm install
 ## Development
 
 ```bash
-npm start
+npm run start
 ```
 
 Opens a local dev server at `http://localhost:1313/` with live reload.
 
 ## Content
 
-Content lives in `content/en/`. The homepage is `content/en/_index.md`.
+Content lives in `content/`. The homepage is `content/_index.md`.
 
 ## Deployment
 
-```bash
-npm run build
-```
-
-Outputs to `public/`. Deploy that directory to any static host.
+Pushing to github publishes via Netlify
 
 ## Theme
 
