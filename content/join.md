@@ -1,6 +1,8 @@
 ---
 title: Join
 description: Take action now to oppose the live music venue expansion.
+_build:
+  list: never
 ---
 
 🔴 **DO THESE THINGS NOW:**
