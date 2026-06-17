@@ -8,15 +8,28 @@ timeZone: "America/Los_Angeles"
 # Defines the minimum amount of words to reddened in a summary
 summaryLength: 50
 
-######################## i18n ####################
-# Auto-detect Chinese/Japanese/Korean Languages in the content. see: https://gohugo.io/getting-started/configuration/#hascjklanguage
-hasCJKLanguage: true
-# Set default content directory for multilingual
-contentDir: content/en/
-# Set fallback if international version is not available
-defaultContentLanguage: en
-# Set the default language as the root rather than in folder i.e. don't use /en/
-defaultContentLanguageInSubdir: false
+locale: en-us
+hasCJKLanguage: false
+
+copyright: "Copyright &copy; {{< current_year >}}. All Rights Reserved."
+
+######################## calls to action ####################
+params:
+  description: "The Freret neighbors united in opposition to live music at the Josephine"
+  main_cta:
+    text: "Join"
+    link: "/join/"
+  footer_cta:
+    text: "Join us"
+    link: "/join/"
+
+######################## menus ####################
+menu:
+  main:
+  - identifier: "about"
+    name: "About"
+    url: "/"
+    weight: 1
 
 ######################## privacy & speed ####################
 # Enable do not track, no cookies on Video embeds
