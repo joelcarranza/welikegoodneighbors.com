@@ -1,0 +1,26 @@
+######################## custom config ####################
+
+github:
+  show_edit_link: false
+
+social_links:
+  devstats: ""
+  discord: ""
+  facebook: ""
+  flickr: ""
+  github: ""
+  instagram: ""
+  landscape: ""
+  linkedin: ""
+  mastodon: ""
+  pinterest: ""
+  rss: ""
+  slack: ""
+  stackoverflow: ""
+  threads: ""
+  twitter: ""
+  x: ""
+  youtube: ""
+
+sticky_header: true
+show_search: false

@@ -1,0 +1,28 @@
+en:
+  languageName: English
+  weight: 1
+  ### copyright (markdown can be used) ###
+  copyright: "Copyright &copy; {{< current_year >}} Company Name. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
+  title: "We Like Good Neighbors"
+  params:
+    description: "Site Description"
+    ### accessibility ###
+    accessibility:
+      skip_text: "Skip to content"
+      help_text: "Accessibility Statement"
+      help_url: "/example-page/"
+    ### calls to action ###
+    main_cta:
+      text: "Join"
+      link: "/example-page/"
+    footer_cta:
+      text: "Join us"
+      link: "/example-page/"
+    github_edit: "Edit this page on GitHub"
+  ### example menu showing children ###
+  menu:
+    main:
+    - identifier: "about"
+      name: "About"
+      url: "/"
+      weight: 1
