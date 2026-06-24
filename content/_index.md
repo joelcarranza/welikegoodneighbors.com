@@ -24,8 +24,8 @@ There's still time to make a difference. Sign the petition, come to a meeting, a
 
 **March–May 2026** We continue meeting, canvassing, surveying, and organizing. We submit a formal written proposal to the developers. We are still waiting for a substantive response.
 
-**May 21, 2026** At City Council, CM Harris presents provisos developed with the developer that were never shared with us. We are blindsided. A 90-day deferral is granted.
+**May 21, 2026** At City Council, CM Harris presents provisos developed with the developer that were never shared with us. We are blindsided. We have 90 days until the final ordinance is voted on. 
 
-**June 2026** We expand our advocacy. We meet with CM Morrell's office. We launch this campaign publicly. Over 40 engaged neighbors and counting.
+**June 2026** We expand our advocacy. We launch this campaign publicly. Over 70 engaged neighbors and counting.
 
 **The clock is ticking. The ordinance must be heard by August 6, 2026\. We need you.**
