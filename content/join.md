@@ -1,17 +1,36 @@
 ---
-title: Join
+title: How to Get Involved
 description: Take action now to oppose the live music venue expansion.
-_build:
+build:
   list: never
 ---
 
-🔴 **DO THESE THINGS NOW:**
+This is your neighborhood too — and there's more than one way to show up for it.
 
-- Clear calendar for June 24th — details below
-- Email City Council members opposing the live music venue expansion and cc: welikegoodneighbors@gmail.com
-- Order a t-shirt and/or yard sign: welikegoodneighbors@gmail.com
-- Forward any communications (or lack of) from CM Harris's office to: welikegoodneighbors@gmail.com
-- Send any photos documenting existing problems to welikegoodneighbors@gmail.com
-- Sign up for a canvassing shift (Sun–Tues this week); variable shifts next week.
-- Contribute to our legal fund — talk to Toi for details
-- Please consider making a donation to our neighbor Kathy Benjamin's GoFundMe. Any amount helps! She was an involved member of our community, and she and her family need help transporting her to CA to be closer to where her sister and daughter live during her recovery.
+**Reach out to us**  
+We want to hear from you. Email us at welikegoodneighbors@gmail.com with questions, ideas, or to get connected with neighbors near you.
+
+**Sign the petition in person**  
+Online petitions don't provide enough detail to verify identity, so we're collecting signatures in person. Come to one of our meetings to sign — it matters more than you might think.
+
+**Get a yard sign or t-shirt**  
+Show your neighbors where you stand. Sign up here: <https://forms.gle/EMW8JJeBcMTAktgp6>
+
+**Come to a meeting**  
+Our neighborhood meetings are where the real work happens — and where you'll find your people. Check back here for upcoming dates and locations.
+
+**Email City Council**  
+Let your elected officials know where the neighborhood stands. We encourage you to write in your own words — personal emails carry more weight than form letters.
+
+CM Lesli Harris (District B): [Lesli.Harris@nola.gov](mailto:Lesli.Harris@nola.gov)  
+Land Use Staffer: Dominique.Jackson@nola.gov  
+Chief of Staff: Anpoort@nola.gov  
+Director of Operations: Bryce.Slocumb@nola.gov  
+   
+CM JP Morrell (At-Large): JP.Morrell@nola.gov  
+CM Matthew Willard (At-large): Matthew.Willard@nola.gov
+
+CM Aimee McCarron (District A): Aimee.McCarron@nola.gov  
+CM Eugene Green (District C): Eugene.Green@nola.gov  
+CM Freddie King (District D): Freddie.King@nola.gov  
+CM Jason Hughes (District E): Jason.Hughes@nola.gov

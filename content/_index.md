@@ -4,48 +4,28 @@ description: A community coalition opposing the expansion of 2400 Napoleon Avenu
 showHeader: false
 ---
 
-# To the New Orleans City Council
+We Like Good Neighbors is a grassroots campaign born out of the Freret Street corridor - one of New Orleans' many vibrant, resilient, and beloved neighborhoods. We came together in early 2026 when our community learned that The Josephine, the event venue at 2400 Napoleon Avenue, was seeking a zoning change that would significantly expand its operations before the impacts of its existing use had ever been addressed.
 
-{{< intro >}}
-We respectfully call on the City Council to **deny the application for Amendment to Ordinance No. 29,359 MCS**, which would expand the services at 2400 Napoleon Avenue (The Josephine, formerly Our Lady of Lourdes Catholic Church).
-{{< /intro >}}
+We are renters and homeowners, longtime residents and newer faces, families and musicians, business owners and block captains. Our members span three neighborhood associations - all of whose lines meet right here at Freret and Napoleon. What unites us is simple: we believe the people who live in a neighborhood should have a real say in what happens to it.
 
-Our opposition is grounded in the following:
+We are not anti-development. We are pro-neighbor. We want the beautiful community we've built together, with each other and with our local businesses, to be protected, respected, and heard by the people we elect to represent us.
 
-## Existing Issues Must Be Remedied First
+There's still time to make a difference. Sign the petition, come to a meeting, and let your council member know where you stand. We're glad you're here.
 
-Before considering expansion, the problems described below — with the existing venue — must be addressed through a **legally binding Good Neighbor Agreement**.
+[Our Community Proposal](/proposal/) - submitted to The Josephine on May 11th. 
 
+## Our Story So Far
 
-## A Flawed and Deceptive Community Engagement Process
+**December 2025** Neighbors learns The Josephine has applied for a zoning change to expand into a live music venue. Neighbors begin meeting.
 
-The approval process has been neither transparent nor conducted in good faith. Neighbors have made sustained, sincere efforts to participate, only to discover that developers bypassed community dialogue by submitting provisos directly to our Council Member — and **falsely representing that the neighborhood was "on board, except for a couple of outliers."** This characterization is false and dismissive.
+**February–March 2026** Two community meetings draw 20 and 65 neighbors respectively. Overwhelming opposition. We formally request a meeting with CM Harris. We are redirected to the developer.
 
-Adding insult to injury, our District B Council Member declined to meet with concerned residents after the CPC hearing and before the May 21st Council vote, calling such a meeting "premature." Residents deserve a process that is honest, inclusive, and accountable.
+**March 2026** We show up to two City Planning Commission hearings. The CPC recommends denial and cannot get a second on a motion to approve.
 
-## Parking and Flow of Traffic
+**March–May 2026** We continue meeting, canvassing, surveying, and organizing. We submit a formal written proposal to the developers. We are still waiting for a substantive response.
 
-Since opening as a venue — with potential to hold weddings, corporate events, and non-profit ticketed events — our neighborhood has experienced measurable, ongoing harm from vehicle congestion, unsafe driving, and total absence of on-site parking.
+**May 21, 2026** At City Council, CM Harris presents provisos developed with the developer that were never shared with us. We are blindsided. A 90-day deferral is granted.
 
-There are **zero designated parking spaces** at 2400 Napoleon Avenue. The 56 off-site spots secured by the venue are located four blocks away — an inadequate and impractical solution for a high-occupancy event space.
+**June 2026** We expand our advocacy. We meet with CM Morrell's office. We launch this campaign publicly. Over 40 engaged neighbors and counting.
 
-There are 5 types of existing parking and traffic problems, which would worsen with an expanded venue:
-
-- Vendor parking and unloading
-- Employee parking
-- Uber/Lyft parking
-- Reckless driving
-- Attendee parking
-
-Neighbors have already experienced drunken driving from venue attendees and side-view mirrors being swiped by delivery vans. This combination currently impacts our quality of life and will only worsen under the current operators and developers.
-
-## No Benefits to the Local Neighborhood
-
-This proposed change only brings burdens to the surrounding community. There are **no direct benefits** for us.
-
-
-## Cumulative Impact
-
-Our neighborhood has undergone many changes over the past 15 years and they have a cumulative effect on the fabric and culture of our community. With this change — in addition to Trader Joe's — our near neighbors could experience an increase in light, noise, and air pollution from multiple businesses and traffic, **almost 24 hours a day**.
-
-Proposed mitigations still fall on local neighbors to enforce (e.g., calling parking enforcement). This is not an acceptable solution.
+**The clock is ticking. The ordinance must be heard by August 6, 2026\. We need you.**
