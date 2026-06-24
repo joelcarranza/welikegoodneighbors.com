@@ -1,6 +1,7 @@
 # Hugo build output
 /public/
 /resources/
+*.sublime-workspace
 
 # Hugo lock file
 .hugo_build.lock

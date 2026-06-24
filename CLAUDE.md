@@ -32,8 +32,7 @@ git submodule update --remote --merge
 - `static/` — static files served as-is (logos, images)
 - `data/` — structured data consumed by templates
 
-**Content** goes in `content/en/` (multilingual setup with English as default, no `/en/` prefix in URLs). The theme supports blog, FAQ, and general pages.
+**Content** goes in `content/` The theme supports blog, FAQ, and general pages.
 
-**Search** uses Pagefind. To build with search index: `npm run dev:start:with-pagefind`.
 
 **Styling** uses SCSS (via sass-embedded) with PostCSS/autoprefixer. The theme's SCSS lives in `themes/dot-org-hugo-theme/assets/scss/`; override by creating matching files in `assets/scss/`.
