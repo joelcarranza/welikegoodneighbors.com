@@ -28,7 +28,7 @@ menu:
   main:
   - identifier: "about"
     name: "About"
-    url: "/"
+    url: "/about/"
     weight: 1
   - identifier: "proposal"
     name: "Our Community Proposal"

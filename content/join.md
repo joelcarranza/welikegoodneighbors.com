@@ -4,20 +4,19 @@ description: Take action now to oppose the live music venue expansion.
 build:
   list: never
 ---
-
-This is your neighborhood too — and there's more than one way to show up for it.
+This is your neighborhood too \- and there's more than one way to show up for it.
 
 **Reach out to us**  
 We want to hear from you. Email us at welikegoodneighbors@gmail.com with questions, ideas, or to get connected with neighbors near you.
 
 **Sign the petition in person**  
-Online petitions don't provide enough detail to verify identity, so we're collecting signatures in person. Come to one of our meetings to sign — it matters more than you might think.
+Online petitions don't provide enough detail to verify identity, so we're collecting signatures in person. Come to one of our meetings to sign \- it matters more than you might think.
 
 **Get a yard sign or t-shirt**  
 Show your neighbors where you stand. Sign up here: <https://forms.gle/EMW8JJeBcMTAktgp6>
 
 **Come to a meeting**  
-Our neighborhood meetings are where the real work happens — and where you'll find your people. Check back here for upcoming dates and locations.
+Our neighborhood meetings are where the real work happens \- and where you'll find your people. Check back here for upcoming dates and locations.
 
 **Email City Council**  
 Let your elected officials know where the neighborhood stands. We encourage you to write in your own words — personal emails carry more weight than form letters.
